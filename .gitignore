@@ -1,5 +1,6 @@
-# Config file
+# Config and zip files
 config.txt
+*.zip
 
 # HTML and CSV
 *.html
